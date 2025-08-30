@@ -25,5 +25,5 @@ Supports basic arithmetic operations and some extra features like **percent, sig
 ## Author
 
 - [Mohammed Gamal](https://github.com/mohammed-gamal-abdelmeged) – Team Member
-- - [Tasnim Elgarbi](https://github.com/tasnimelgarbi) – Team Member 
+- [Tasnim Elgarbi](https://github.com/tasnimelgarbi) – Team Member 
  
