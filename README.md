@@ -18,7 +18,7 @@ Supports basic arithmetic operations and some extra features like **percent, sig
 ## How to Run
 1. Clone the repository or download files:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/mohammed-gamal-abdelmeged/calculator.git
 
 ---
 
