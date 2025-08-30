@@ -15,11 +15,6 @@ Supports basic arithmetic operations and some extra features like **percent, sig
 
 ---
 
-## Screenshot
-*(Add a screenshot here if you want)*
-
----
-
 ## How to Run
 1. Clone the repository or download files:
    ```bash
