@@ -16,9 +16,7 @@ Supports basic arithmetic operations and some extra features like **percent, sig
 ---
 
 ## How to Run
-1. Clone the repository or download files:
-   ```bash
-   git clone https://github.com/mohammed-gamal-abdelmeged/calculator.git
+[Live Demo](https://68b353abd6dac4319f70592b--sweet-zuccutto-7ec59f.netlify.app/)
 
 ---
 
